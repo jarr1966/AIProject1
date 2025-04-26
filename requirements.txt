@@ -1,0 +1,8 @@
+gradio
+asyncio
+pymssql
+python-dotenv
+langgraph
+langchain
+langchain-ollama
+mcp
