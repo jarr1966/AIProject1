@@ -55,7 +55,7 @@ MSSQL_DATABASE=ERP
 ## 🚦 Como Executar
 
 ```bash
-python client2.py
+python client.py
 ```
 
 ---

@@ -32,4 +32,4 @@ Instalação:
 ---
 
 Execução:
-- Corre `python client2.py`
+- Corre `python client.py`

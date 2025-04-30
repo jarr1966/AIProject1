@@ -55,7 +55,7 @@ MSSQL_DATABASE=ERP
 ## 🚦 How to Run
 
 ```bash
-python client2.py
+python client.py
 ```
 
 The Gradio web interface will open for you to ask questions about your database.
