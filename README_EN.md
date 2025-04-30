@@ -1,6 +1,6 @@
 # 🧠 SQL Server Agent with LangGraph, MCP, and Ollama
 
-This project allows interaction with a SQL Server database through an intelligent agent combining LangGraph, MCP Tools, and the local Ollama model (Llama 3.1).
+This project is a Proof of Concept that allows interaction with a SQL Server database through an intelligent agent combining LangGraph, MCP Tools, and the local Ollama model (Llama 3.1).
 A user-friendly interface is provided using Gradio for natural language interaction.
 
 ---

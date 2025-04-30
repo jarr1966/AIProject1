@@ -1,6 +1,6 @@
 Projeto: Agente SQL Server com LangGraph, MCP e Ollama
 
-Este projeto permite interagir com uma base de dados SQL Server usando um agente inteligente construído com LangGraph e ferramentas MCP, alimentado por um modelo local Ollama.
+Este projeto é uma Prova de Conceito que permite interagir com uma base de dados SQL Server usando um agente inteligente construído com LangGraph e ferramentas MCP, alimentado por um modelo local Ollama.
 A interação é feita através de uma interface gráfica simples em Gradio.
 
 ---
