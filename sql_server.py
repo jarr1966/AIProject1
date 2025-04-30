@@ -18,10 +18,10 @@ logger = logging.getLogger("mssql_mcp_server")
 def get_db_config():
     """Get database configuration from environment variables."""
     config = {
-        "server": os.getenv("MSSQL_SERVER", "localhost"),
-        "user": os.getenv("MSSQL_USER", "sa"),
-        "password": os.getenv("MSSQL_PWD", "#J1a9r6r6#"),
-        "database": os.getenv("MSSQL_DATABASE", "ERP")
+        "server": os.getenv("MSSQL_SERVER", "server"),
+        "user": os.getenv("MSSQL_USER", "user"),
+        "password": os.getenv("MSSQL_PWD", "password"),
+        "database": os.getenv("MSSQL_DATABASE", "database")
     }
     
     if not all([config["user"], config["password"], config["database"]]):
